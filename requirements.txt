@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+mlx
+langchain
+langchain-community
+numba
+numpy
+torch
+tqdm
+more-itertools
+tiktoken==0.3.3
